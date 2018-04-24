@@ -48,7 +48,7 @@ header
     font-size: 40px;
     font-weight: 300;
     text-align: center;
-    margin-top:50px;
+    margin-top:160px;
    
 }
 
@@ -333,4 +333,8 @@ padding-left:-110 px;
 
 #df {
     margin-left:10px;
+}
+ .ashe{
+        background-attachment: fixed;
+       background-position: center;
 }
